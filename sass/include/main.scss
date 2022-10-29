@@ -177,6 +177,9 @@
           object-fit: cover;
 
       }
+      .gal_item{
+        box-shadow: 0 6px 6px rgb(40,40,40);
+      }
       .gal_item_1{
           grid-column: 1/span 2;
           grid-row: 1/span 2;
