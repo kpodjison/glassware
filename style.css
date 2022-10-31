@@ -125,23 +125,17 @@
 .category_div .inner::after {
   content: "";
   position: absolute;
-  left: 0px;
-  bottom: 0px;
-  width: 0px;
-  height: 0px;
+  inset: 0;
   box-sizing: border-box;
   border-left: 3px solid transparent;
-  border-bottom: 3px solid transparent;
+  border-bottom: 30px solid transparent;
   transition: all 0.8s ease;
 }
 
 .category_div .inner::before {
   content: "";
   position: absolute;
-  top: 0px;
-  right: 0px;
-  width: 0px;
-  height: 0px;
+  inset: 0;
   box-sizing: border-box;
   border-top: 3px solid transparent;
   border-right: 3px solid transparent;
@@ -150,9 +144,10 @@
 
 .category_div:hover .inner::after,
 .category_div:hover .inner::before {
-  border-color: rgb(3, 102, 97);
+  border-color: #ff961f;
   width: 100%;
   height: 100%;
+  background-color: rgba(0, 0, 0, 0.2666666667);
 }
 
 #parallax {
@@ -239,24 +234,6 @@
 }
 #collections_div .gal_item {
   box-shadow: 0 6px 6px rgb(40, 40, 40);
-  cursor: pointer;
-  position: relative;
-}
-#collections_div .gal_item .overlay {
-  position: absolute;
-  transition: opacity 0.4s ease-in-out;
-  background-color: #000;
-}
-#collections_div .gal_item .overlay .content {
-  position: absolute;
-  top: 50%;
-  left: 510%;
-  transform: translate(-50%, -50%);
-  color: #000;
-  width: 100%;
-}
-#collections_div .gal_item:hover .overlay {
-  opacity: 0.8s;
 }
 #collections_div .gal_img {
   width: 100%;
