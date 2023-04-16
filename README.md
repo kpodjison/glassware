@@ -9,7 +9,7 @@ The following are the technologies & tools used
 * JAVASCRIPT
   * JQuery
   * OWLCAROUSEL2
-* BOOSTRAP
+* BOOTSTRAP
 
 ## How to Contribute
 1. Clone repo and create a new branch: `https://github.com/kpodjison/glassware-website.git -b name_for_new_q-glasses_branch`.
