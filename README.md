@@ -1,5 +1,5 @@
-# Glassware -- Product catalogue website
-`Techzometer` This project is a catalogue website for glass products.
+# Q-Glasses -- Product catalogue website
+`Q-Glasses` This project is a catalogue website for glass products.
 
 ## TECHNOLOGIES
 The following are the technologies & tools used
@@ -12,7 +12,7 @@ The following are the technologies & tools used
 * BOOSTRAP
 
 ## How to Contribute
-1. Clone repo and create a new branch: `https://github.com/kpodjison/glassware-website.git -b name_for_new_techzometer_branch`.
+1. Clone repo and create a new branch: `https://github.com/kpodjison/glassware-website.git -b name_for_new_q-glasses_branch`.
 2. Make changes
 3. Send a pull request with a detailed explanation of the modifications.
 
