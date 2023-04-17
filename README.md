@@ -19,7 +19,8 @@ The following are the technologies & tools used
 ## Screenshots
 ### Landing page
 
-![index](https://user-images.githubusercontent.com/50149323/232337605-2cc01237-5d35-47bc-acc7-99e0105a3b71.png)
+![index](https://user-images.githubusercontent.com/50149323/232426722-cd345be1-86fe-494a-b039-fa639f039dbe.png)
+
 
 ### Collections page
-![collections](https://user-images.githubusercontent.com/50149323/232337603-2a719e21-3baa-48c2-8ffb-88b452f84f1e.png)
+![collection](https://user-images.githubusercontent.com/50149323/232426713-d49cd7f1-8a38-4f6a-ab4b-0f186744ba35.png)
