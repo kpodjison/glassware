@@ -219,6 +219,12 @@
   grid-row: 6/span 3;
 }
 
+.contact-img-sec {
+  background: url("/assets/bogdan-costin-qvZRqIFTyqo-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
 #col-banner_area {
   background-image: url("/assets/h-w-lDMB12PFSlg-unsplash.jpg");
   background-repeat: no-repeat;
