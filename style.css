@@ -79,7 +79,7 @@
   content: "";
   display: block;
   margin: 15px 0;
-  width: 40px;
+  width: 60px;
   border-top: 2px solid #555;
   -webkit-transition: width 0.3s ease;
   -o-transition: width 0.3s ease;
@@ -225,6 +225,13 @@
   background-position: center;
 }
 
+@media screen and (max-width: 600px) {
+  .advert h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-shadow: 3px 3px #4d81b1;
+  }
+}
 #col-banner_area {
   background-image: url("/assets/h-w-lDMB12PFSlg-unsplash.jpg");
   background-repeat: no-repeat;

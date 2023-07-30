@@ -66,7 +66,7 @@
     content:'';
     display:block;
     margin:15px 0;
-    width:40px;
+    width:60px;
     border-top:2px solid #555;
     -webkit-transition:width .3s ease;
     -o-transition:width .3s ease;
@@ -219,4 +219,14 @@
     background: url('/assets/bogdan-costin-qvZRqIFTyqo-unsplash.jpg');
     background-size: cover;
     background-position: center;
+ }
+
+ @media screen and (max-width:600px){
+    .advert h3{
+        font-size:25px;
+        margin-bottom:10px;
+        text-shadow:3px 3px#4d81b1;
+        }
+
+
  }
